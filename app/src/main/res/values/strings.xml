@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Jev 简版</string>
+    <string name="ime_name">Jev 键盘</string>
+    <string name="ime_subtype">中文</string>
+</resources>

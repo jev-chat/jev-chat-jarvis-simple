@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 自适应图标前景：白色对话气泡 + 三个点（气泡本身即「回复」这件事） -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M36,32 L72,32 A8,8 0 0 1 80,40 L80,60 A8,8 0 0 1 72,68 L36,68 A8,8 0 0 1 28,60 L28,40 A8,8 0 0 1 36,32 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M40,66 L55,66 L42,81 Z" />
+    <path
+        android:fillColor="#5C5CD6"
+        android:pathData="M42,50 m-4,0 a4,4 0 1 0 8,0 a4,4 0 1 0 -8,0" />
+    <path
+        android:fillColor="#5C5CD6"
+        android:pathData="M54,50 m-4,0 a4,4 0 1 0 8,0 a4,4 0 1 0 -8,0" />
+    <path
+        android:fillColor="#5C5CD6"
+        android:pathData="M66,50 m-4,0 a4,4 0 1 0 8,0 a4,4 0 1 0 -8,0" />
+</vector>

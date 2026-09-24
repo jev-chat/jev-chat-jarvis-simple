@@ -1,0 +1,34 @@
+# Build
+/build/
+/app/build/
+.gradle/
+*.apk
+*.ap_
+*.dex
+*.class
+local.properties
+
+# Machine-specific
+env.ps1
+gradle.properties.local
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Never commit secrets
+*.key
+secrets.*
+
+# Signing material never enters the repo
+*.jks
+*.keystore
+keystore.properties
+
+# 预打包 APK（有意跟踪：方便直接装机）
+!/apk/*.apk

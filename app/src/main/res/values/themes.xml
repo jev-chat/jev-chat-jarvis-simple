@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Jev" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/brand</item>
+        <item name="android:windowBackground">@color/panel_bg</item>
+    </style>
+
+    <!-- 输入法面板自己的主题：不要窗口背景、不要任何系统装饰 -->
+    <style name="Theme.Jev.Ime" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:windowBackground">@android:color/transparent</item>
+    </style>
+</resources>
